@@ -8,4 +8,4 @@ solutions to some of those questions.
 ### Questions
 
 - 10: [Question](http://www.cs.middlebury.edu/~schar/courses/cs701-f15/docs/bitswap.png),
-[Solution](10_bitswap.py)
+[Solution](https://github.com/danasilver/algorithms/blob/master/interview-questions/10bitswap.py)
