@@ -9,3 +9,5 @@ solutions to some of those questions.
 
 - 10: [Question](http://www.cs.middlebury.edu/~schar/courses/cs701-f15/docs/bitswap.png),
 [Solution](https://github.com/danasilver/algorithms/blob/master/interview-questions/10bitswap.py)
+
+- 11: [Question](https://www.interviewcake.com/question/find-unique-int-among-duplicates), [Solution](https://github.com/danasilver/algorithms/blob/master/interview-questions/11uniqueinteger.py)
