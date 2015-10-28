@@ -13,7 +13,5 @@ def unique_integer(ids):
     return reduce(xor, ids, 0)
 
 if __name__ == '__main__':
-    import sys
-
     ids = [1, 2, 3, 2, 3, 1, 5, 4, 7, 4, 6, 5, 6]
     print('ids: {0}, unique integer: {1}'.format(ids, unique_integer(ids)))
